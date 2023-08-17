@@ -1,0 +1,8 @@
+D:\Study\Semester 3, Winter 2023\SWE-4302-Lab--Object-Oriented-Concepts-II\LAB 2\Task 1\bin\Debug\Task 1.exe.config
+D:\Study\Semester 3, Winter 2023\SWE-4302-Lab--Object-Oriented-Concepts-II\LAB 2\Task 1\bin\Debug\Task 1.exe
+D:\Study\Semester 3, Winter 2023\SWE-4302-Lab--Object-Oriented-Concepts-II\LAB 2\Task 1\bin\Debug\Task 1.pdb
+D:\Study\Semester 3, Winter 2023\SWE-4302-Lab--Object-Oriented-Concepts-II\LAB 2\Task 1\obj\Debug\Delegation.csproj.AssemblyReference.cache
+D:\Study\Semester 3, Winter 2023\SWE-4302-Lab--Object-Oriented-Concepts-II\LAB 2\Task 1\obj\Debug\Delegation.csproj.SuggestedBindingRedirects.cache
+D:\Study\Semester 3, Winter 2023\SWE-4302-Lab--Object-Oriented-Concepts-II\LAB 2\Task 1\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
+D:\Study\Semester 3, Winter 2023\SWE-4302-Lab--Object-Oriented-Concepts-II\LAB 2\Task 1\obj\Debug\Task 1.exe
+D:\Study\Semester 3, Winter 2023\SWE-4302-Lab--Object-Oriented-Concepts-II\LAB 2\Task 1\obj\Debug\Task 1.pdb
